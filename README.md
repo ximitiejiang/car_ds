@@ -9,9 +9,12 @@ Implement Car detection and segmentation algorithm. this repo is based on Carvan
 
 
 3. detect car
-    3.1 base_model/weights prepare
-    3.2 take photo
-    3.3 
+
+3.1 base_model/weights prepare
+    
+3.2 take photo
+
+3.3 
 
 4. segment car
 

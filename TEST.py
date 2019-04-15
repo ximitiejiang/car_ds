@@ -74,7 +74,6 @@ def load_image(path, pad=True):
     return img, (x_min_pad, y_min_pad, x_max_pad, y_max_pad)
 
 
-    
 def crop_image(img, pads):
     """
     img: numpy array of the shape (height, width)
